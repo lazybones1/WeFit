@@ -154,10 +154,6 @@
 * 목소리, 얼굴이 가려진 상태에서 게임을 해봐요
 * 게임이 진행될수록 필터가 사라져요
 
-<img src="https://user-images.githubusercontent.com/53360337/185411425-a9bea897-db92-4b8c-b0e6-2e39a877396c.png" width="160px" />
-<img src="https://user-images.githubusercontent.com/53360337/185411477-db8e509a-9990-495d-a0a5-ecd67a742454.png" width="160px" />
-<img src="https://user-images.githubusercontent.com/53360337/185411554-5abd8ece-e665-4aa0-84d7-6cd6df57154f.png" width="160px" />
-
 <br />
 
 ### 대화 카드
