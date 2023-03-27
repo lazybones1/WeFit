@@ -163,19 +163,13 @@
 ### 대화 카드
 * 처음 만남에서 대화거리를 줄게요
   
-![대화카드](https://user-images.githubusercontent.com/53360337/185390652-81322dba-2560-4def-8d81-bbb2eb39ca03.gif)
-
 
 ### 벨런스 게임
 * 벨런스 게임을 통해서 상대와 대화해봐요
 
-![밸런스게임](https://user-images.githubusercontent.com/53360337/185412935-b2b367eb-ad8f-4f58-86d4-07b7460d758a.gif)
   
 ### 캐치마인드
 * 캐치마인드로 그림을 그리고 맞춰봐요
-
-![캐치마인드](https://user-images.githubusercontent.com/53360337/185413323-f7404297-32a4-479e-90ce-c1fc5c6ed90f.gif)
-
 
 ### 고요속의 외침
 * 입모양을 보고 말하는 것을 맞춰봐요
